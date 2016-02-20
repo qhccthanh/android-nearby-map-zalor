@@ -1,1 +1,0 @@
-# android-nearby-map-zalor
